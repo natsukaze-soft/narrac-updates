@@ -10,18 +10,13 @@
             <title>Version 1.0</title>
             <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/natsukaze-soft/narrac-updates/releases/download/v1.0/NarraC-1.0.zip"
+                url="https://github.com/natsukaze-soft/narrac-updates/releases/download/1.0/NarraC-1.0.zip"
                 sparkle:version="1"
                 sparkle:shortVersionString="1.0"
                 sparkle:edSignature="pYIIIsbKpf3IAjEQonkmlY+5/IkN4WKl4Ercq9/OUm1WxyOL8wTiwhuOHFeor/RkW+UZLzMNZmUBIXeBtSJHDg=="
                 length="5994942"
                 type="application/octet-stream"
             />
-        </item>
-
-    </channel>
-</rss>
-
         </item>
 
     </channel>
