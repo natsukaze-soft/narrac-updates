@@ -6,20 +6,6 @@
         <description>NarraC update feed</description>
         <language>en</language>
 
-        <!-- ═══════════════════════════════════════════════════════════
-             HOW TO ADD A NEW RELEASE:
-             1. Archive → export NarraC.app from Xcode
-             2. Zip it:
-                  ditto -c -k --sequesterRsrc --keepParent NarraC.app NarraC-X.Y.zip
-             3. Get the signature + byte length:
-                  PATH_TO_SPARKLE/bin/sign_update NarraC-X.Y.zip
-             4. Create a GitHub Release at github.com/natsukaze-soft/narrac-updates
-                Upload the .zip as a release asset
-             5. Copy the asset download URL into sparkle:url below
-             6. Update version, shortVersionString, pubDate, sparkle:edSignature, length
-             7. Commit and push this file — GitHub Pages serves it automatically
-             ═══════════════════════════════════════════════════════════ -->
-
         <item>
             <title>Version 1.0</title>
             <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
@@ -27,10 +13,15 @@
                 url="https://github.com/natsukaze-soft/narrac-updates/releases/download/v1.0/NarraC-1.0.zip"
                 sparkle:version="1"
                 sparkle:shortVersionString="1.0"
-                sparkle:edSignature="PASTE_SIGNATURE_HERE"
-                length="0"
+                sparkle:edSignature="pYIIIsbKpf3IAjEQonkmlY+5/IkN4WKl4Ercq9/OUm1WxyOL8wTiwhuOHFeor/RkW+UZLzMNZmUBIXeBtSJHDg=="
+                length="5994942"
                 type="application/octet-stream"
             />
+        </item>
+
+    </channel>
+</rss>
+
         </item>
 
     </channel>
