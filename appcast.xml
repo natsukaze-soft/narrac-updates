@@ -1,3 +1,15 @@
+<item>
+    <title>Version 1.01</title>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    <enclosure
+        url="https://github.com/natsukaze-soft/narrac-updates/releases/download/1.01/NarraC101.zip"
+        sparkle:version="2"
+        sparkle:shortVersionString="1.01"
+        sparkle:edSignature="LRPS5iPZkK6/ALqFZfzqp+9ocl5CuOOnrlGJO7wqTy3maR1GZ9m4PimS+laiYOGAZFDeVcVVMbcHoGZfZoG5DQ=="
+        length="6006716"
+        type="application/octet-stream"
+    />
+</item>
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
